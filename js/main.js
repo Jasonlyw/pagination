@@ -85,4 +85,3 @@ showPages(0, studentList);
 
 // Event Handlers
 $('.student-search').find('button').on('click', searchList);
-$('.student-search').find('input').keyup(searchList);
